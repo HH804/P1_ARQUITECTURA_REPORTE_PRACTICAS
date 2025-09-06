@@ -13,6 +13,7 @@ Materiales:
 • Protoboard
 • Jumpers
 ```
+![Evidencia.](https://github.com/HH804/P1_ARQUITECTURA_REPORTE_PRACTICAS/blob/main/PracticaInicial.png)
 
 # PRACTICA 1
 ### SALIDA POR GRUPOS
@@ -29,7 +30,7 @@ Materiales:
 • Protoboard
 • Jumpers
 ```
-![Evidencia.](https://github.com/HH804/PRACTICAS_DEBSE_P2/blob/main/LED-BLUETOOTH.jpeg)
+![Evidencia.](https://github.com/HH804/P1_ARQUITECTURA_REPORTE_PRACTICAS/blob/main/Practica1.png)
 
 # PRACTICA 2
 ### SALIDA INDIVIDUAL
@@ -46,6 +47,7 @@ Materiales:
 • Protoboard
 • Jumpers
 ```
+![Evidencia.](https://github.com/HH804/P1_ARQUITECTURA_REPORTE_PRACTICAS/blob/main/Practica2.png)
 
 # PRACTICA 3
 ### SERVOMOTOR
@@ -61,6 +63,7 @@ Materiales:
 • Protoboard
 • Jumpers
 ```
+![Evidencia.](https://github.com/HH804/P1_ARQUITECTURA_REPORTE_PRACTICAS/blob/main/Practica3.png)
 
 # PRACTICA 4
 ### SEMAFORO
@@ -78,5 +81,6 @@ Materiales:
 • Protoboard
 • Jumpers
 ```
+![Evidencia.](https://github.com/HH804/P1_ARQUITECTURA_REPORTE_PRACTICAS/blob/main/Semaforo.png)
 
 
